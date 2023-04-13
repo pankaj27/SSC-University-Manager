@@ -1,1 +1,1 @@
-# SSC-University-Manager
+# SSC University Manager
